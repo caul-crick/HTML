@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(66, 13, 24);
+    display: block;
+}
+.template-body{
+    width: 960px;
+    height: 960px;
+    background: gray;
+
+}
+.nav-banner{
+    margin: 0 auto;
+    display: block;
+    width: 960px;
+    height: 400px;
+    background: url(/IMG/templatemo_banner_bg.jpg);
+    background-repeat: no-repeat;
+    
+}
+.search{
+    display: block;
+    float: right;
+    margin-bottom: 30px;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+.search-field{
+    width: 200px;
+    padding: 8px;
+    font-size: 12px;
+    color: white;
+    line-height: normal;
+    background: rgba(255, 24, 24, 0.644);
+}
+.search-button{
+    padding: 8px;
+}
